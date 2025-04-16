@@ -70,11 +70,11 @@ section {
 }
 
 .display-4 {
-    text-shadow: -5px 5px var(--laranja-claro);
+    text-shadow: -5px 5px var(--preto);
 }
 
 
-#tropicalia {
+#carros {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
@@ -85,7 +85,7 @@ section {
     /* Ajuste o tamanho conforme necessário */
 }
 
-#tropicalia .container {
+#carros .container {
     display: flex;
     align-items: center;
     justify-content: center;
